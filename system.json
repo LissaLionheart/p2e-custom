@@ -593,6 +593,6 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "attributes.hp",
   "url": "https://github.com/LissaLionheart/p2e-custom",
-  "manifest": "https://github.com/LissaLionheart/p2e-custom/releases/download/pf2e-custom/system.json",
-  "download": "https://github.com/LissaLionheart/p2e-custom/archive/refs/tags/pf2e-custom.zip"
+  "manifest": "https://github.com/LissaLionheart/p2e-custom/releases/download/pf2e-custom-v1.0.1/system.json",
+  "download": "https://github.com/LissaLionheart/p2e-custom/archive/refs/tags/pf2e-custom-v1.0.1.zip"
 }
