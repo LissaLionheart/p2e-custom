@@ -1,6 +1,6 @@
 {
   "name": "pf2e",
-  "title": "Pathfinder 2nd Edition - Homebrew",
+  "title": "Pathfinder 2nd Edition",
   "description": "A community contributed game system for Pathfinder Second Edition",
   "license": "./LICENSE",
   "version": "3.10.4.11747",
@@ -593,6 +593,6 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "attributes.hp",
   "url": "https://github.com/LissaLionheart/p2e-custom",
-  "manifest": "https://github.com/LissaLionheart/p2e-custom/releases/download/pf2e-custom-v1.0.1/system.json",
-  "download": "https://github.com/LissaLionheart/p2e-custom/archive/refs/tags/pf2e-custom-v1.0.1.zip"
+  "manifest": "https://github.com/LissaLionheart/p2e-custom/releases/download/pf2e-custom-v1.0.2/system.json",
+  "download": "https://github.com/LissaLionheart/p2e-custom/archive/refs/tags/pf2e-custom-v1.0.2.zip"
 }
