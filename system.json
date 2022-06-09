@@ -592,7 +592,7 @@
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "attributes.hp",
-  "url": "https://github.com/LissaLionheart/vtt-p2e-custom",
-  "manifest": "https://github.com/LissaLionheart/vtt-p2e-custom/releases/download/pf2e-custom/system.json",
-  "download": "https://github.com/LissaLionheart/vtt-p2e-custom/archive/refs/tags/pf2e-custom.zip"
+  "url": "https://github.com/LissaLionheart/p2e-custom",
+  "manifest": "https://github.com/LissaLionheart/p2e-custom/releases/download/pf2e-custom-v1/system.json",
+  "download": "https://github.com/LissaLionheart/p2e-custom/archive/refs/tags/pf2e-custom-v1.zip"
 }
